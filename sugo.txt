@@ -1,0 +1,18 @@
+Sugo
+
+A Telefonkonyv nevu program a mindenki altal jol ismert, kozertelemben vett telefonkonyvek szamitogepes megvalositasa.
+
+Hasznalata
+
+A program inditasakor menjeleno fomenu tajekoztat az egyes funkciokrol es, hogy mely karakterek segitsegevel juthatunk el hozzajuk. Rekord bevitelenel/modositasanal [vezeteknev] [keresztnev] [telefonszam] [varos] [utca] [hazszam] [foglalkozas] formaban tudunk adatot bevinni. Ha mar meglevo rekordra szertnenk utalni, azt az azonositoja segitsegevel tehetjuk meg.
+
+1: Adatbazis listazasa - Listazza az adatbazis elemeit soronkent.
+2: Uj rekord rogzitese - Egy uj rekordot var, amit beir a telefonkonyvbe.
+3: Rekord modositasa - Kivalasztjuk a modositandoo rekordot, majd beirjuk, hogy mire szeretnenk modositani.
+4: Rekord torlese - A kivalasztott rekordot torli a rendszerbol.
+5: Kereses - Megkeresi, hogy az adott szo szerepel-e barhol a konyvben. Lehet *-gal kiegesziteses keresest is hasznalni.
+6: Adatbazis elmentese - A teljes telefonkonyv tartalma egy fajlba (telefonkonyv.txt) mentodik.
+7: vCard - A vCard menube juttat el, ahonnet tudunk vCard fajlokat exportalni, illetve importalni.
+8: Sugo - Segitseg a program hasznalatahoz.
+9: Vissza - Az almenukbol visszajuttat a fomenube.
+0: Kilepes - Bezarja a programot.
