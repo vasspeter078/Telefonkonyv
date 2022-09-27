@@ -1,2 +1,2 @@
 # Telefonkonyv
-Egyetemi házifeladat volt Programozás alapjai 1 tárgyból.
+Telefonkönyv program C nyelven, struktúrális programozási elveket követve.
