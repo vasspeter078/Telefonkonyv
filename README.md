@@ -1,2 +1,2 @@
 # Telefonkonyv
-Telefonkönyv program C nyelven, struktúrális programozási elveket követve.
+Telefonkönyv program C nyelven, struktúrált programozási elveket követve.
