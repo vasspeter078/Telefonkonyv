@@ -1,4 +1,4 @@
 # Telefonkonyv
 Telefonkönyv program C nyelven, strukturált programozási elveket követve.
 
-A fejlesztés alatt megismerkedtem a programozás alapjaival. Megtanultam bánni a típusokkal, változókkal, vezérlési szerkezetekkel, függvényekkel, összetettebb adatszerkezetekkel (láncolt lista), egyszerűbb algoritmusokkal, dinamikus memóriakezeléssel és fájlkezeléssel.
+A fejlesztés alatt megismerkedtem a programozás alapjaival. Megtanultam használni a típusokat, változókat, vezérlési szerkezeteket, függvényeket, összetettebb adatszerkezeteket (láncolt lista), egyszerűbb algoritmusokat, dinamikus memóriakezelést és a fájlkezelést.
